@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AthenaWearClient</string>
+    <!--TODO REMOVE MESSAGE-->
+    <string name="message">Watch face tapped</string>
+    <string name="AthenaInterface">Athena Interface</string>
+</resources>
